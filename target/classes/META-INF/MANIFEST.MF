@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot
+Implementation-Version: 1.0
+Built-By: DUYEN
+Implementation-Vendor-Id: com.thanhduyen
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/springboot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
